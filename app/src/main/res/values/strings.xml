@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Skata</string>
+	<string name="pick_from_gallery">Pick from gallery</string>
+	<string name="take_a_photo">Take a photo</string>
+	<string name="scattering_image">Scattering image…\nPlease wait.</string>
+	<string name="scatter_image">Scatter image</string>
+	<string name="share">Share</string>
+</resources>
